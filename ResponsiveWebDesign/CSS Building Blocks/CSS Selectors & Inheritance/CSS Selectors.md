@@ -12,6 +12,8 @@ Universal Selector
 Pseudo-class
 Compound Selectors
 Complex Selectors and many more.
+
+
 1.1 Class Selector
 The CSS Class Selector selects all the HTML elements that have a given CSS class selector as their class attribute value. It consists of a dot (.), followed by the class name of the HTML element.
 
